@@ -51,6 +51,7 @@ cask 'the-unarchiver'
 cask 'sequel-pro'
 
 # Quicklook
+cask 'WebPQuickLook'
 cask 'qlcolorcode'
 cask 'qlmarkdown'
 cask 'quicklook-json'
