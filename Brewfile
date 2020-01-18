@@ -31,9 +31,11 @@ brew 'php@7.2'
 brew 'php@7.0'
 brew 'composer'
 brew 'imagemagick'
-brew 'mysql'
+brew 'mysql@5.7'
 brew 'nginx'
 brew 'node'
+brew 'node@10'
+brew 'node@8'
 brew 'redis'
 
 # Apps
@@ -48,7 +50,7 @@ cask 'cyberduck'
 cask 'webtorrent'
 cask 'vlc'
 cask 'the-unarchiver'
-cask 'sequel-pro'
+cask 'sequel-pro-nightly'
 
 # Quicklook
 cask 'WebPQuickLook'
