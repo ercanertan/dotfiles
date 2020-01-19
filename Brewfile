@@ -15,7 +15,7 @@ brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'pkg-config' # https://github.com/driesvints/dotfiles/issues/20
 brew 'tree' # List directories in a tree structure
-brew 'zlib' # Needed for Memcached
+#brew 'zlib' # Needed for Memcached
 
 # Spatie Medialibrary
 # brew 'jpegoptim'
@@ -36,7 +36,7 @@ brew 'nginx'
 brew 'node'
 brew 'node@10'
 brew 'node@8'
-brew 'redis'
+#brew 'redis'
 
 # Apps
 cask 'tor-browser'
