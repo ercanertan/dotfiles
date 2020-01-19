@@ -28,14 +28,14 @@ brew 'tree' # List directories in a tree structure
 brew 'php'
 brew 'php@7.3'
 brew 'php@7.2'
-brew 'php@7.0'
+#brew 'php@7.0'
 brew 'composer'
 brew 'imagemagick'
 brew 'mysql@5.7'
 brew 'nginx'
 brew 'node'
 brew 'node@10'
-brew 'node@8'
+#brew 'node@8'
 #brew 'redis'
 
 # Apps
