@@ -7,6 +7,7 @@ tap 'homebrew/bundle'
 
 # Binaries
 
+brew 'coreutils'
 brew 'git'
 brew 'gnupg2'
 brew 'grep'
