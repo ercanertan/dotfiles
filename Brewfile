@@ -52,6 +52,7 @@ cask 'webtorrent'
 cask 'vlc'
 cask 'the-unarchiver'
 cask 'sequel-pro-nightly'
+cask 'dropbox'
 
 # Quicklook
 cask 'WebPQuickLook'
