@@ -1,6 +1,7 @@
 # Shortcuts
 alias copyssh="pbcopy < $HOME/.ssh/id_rsa.pub"
 alias reloadcli="source $HOME/.zshrc"
+alias ok="source $HOME/.zshrc"
 alias reloaddns="dscacheutil -flushcache && sudo killall -HUP mDNSResponder"
 alias ll="/usr/local/opt/coreutils/libexec/gnubin/ls -ahlF --color --group-directories-first"
 weather() { curl -4 wttr.in/${1:-antwerp} }
@@ -15,6 +16,10 @@ alias library="cd $HOME/Library"
 alias sites="cd $HOME/Sites"
 alias lara="sites && cd laravel/"
 alias mysqllocation="cd $HOME/usr/local/var/mysql"
+
+#SublimeText
+alias subhost="subl /etc/hosts"
+alias subbash="subl $HOME/.dotfiles"
 
 # Laravel
 alias a="php artisan"
