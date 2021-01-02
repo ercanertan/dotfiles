@@ -18,6 +18,7 @@ alias lara="sites && cd laravel/"
 alias mysqllocation="cd $HOME/usr/local/var/mysql"
 
 #SublimeText
+alias subl="open -a /Applications/Sublime\ Text.app"
 alias subhost="subl /etc/hosts"
 alias subbash="subl $HOME/.dotfiles"
 
