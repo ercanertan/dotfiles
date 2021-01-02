@@ -46,3 +46,11 @@ alias gd="git diff"
 alias resolve="git add . && git commit --no-edit"
 alias gl="git log --oneline --decorate --color"
 alias nuke="git clean -df && git reset --hard"
+
+
+
+# MAC
+#get ip address
+alias ip="curl -4 icanhazip.com"
+# ntfs support
+alias ntfs="subl /etc/fstab"
