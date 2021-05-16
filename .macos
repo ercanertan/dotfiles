@@ -1,1 +1,11 @@
 
+# Deactivate ipv6 to prevent data leak on public network or roaming
+# Can be view On macos Settings > Network > Wifi Advance > TCP IP > Configure IPV6: OFF
+# Re-activate networksetup -setv6automatic "Wi-Fi"
+
+# see the list
+networksetup -listallnetworkservices
+# deactivate
+networksetup -setv6off "Wi-Fi"
+
+
